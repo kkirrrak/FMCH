@@ -1,0 +1,6 @@
+{
+  "name": "FixMyCarHub",
+  "description": "FixMyCarHub - Premium Car Repair & Mechanic Services. Fast, reliable, and 24/7 roadside SOS emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
